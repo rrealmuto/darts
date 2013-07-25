@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Darts Scoreboard</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="cricket_button">Cricket</string>
+
+    <color name="chalkboard">#3B653D</color>
+
+    <string name="title_activity_cricket">CricketActivity</string>
+    <string name="num">Number</string>
+    <string name="n15">15</string>
+    <string name="n16">16</string>
+    <string name="n17">17</string>
+    <string name="n18">18</string>
+    <string name="n19">19</string>
+    <string name="n20">20</string>
+    <string name="nBull">Bull</string>
+    <string name="nPoints">Points</string>
+    <string name="p1_points">0</string>
+    <string name="p2_points">0</string>
+
+</resources>
