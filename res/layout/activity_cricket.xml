@@ -16,6 +16,16 @@
     	android:layout_height="0dp" 
         android:layout_weight="1">
         
+        <EditText
+            android:id="@+id/p1"
+            android:layout_weight="1"
+    	    android:layout_height="match_parent"
+    	    android:layout_width="0dp"
+    	    android:gravity="center"
+    	    android:textColor="@android:color/white" >
+    	    
+    	    </EditText>
+        
     	<TextView
     	    android:layout_weight="1"
     	    android:layout_height="match_parent"
@@ -24,6 +34,16 @@
     	    android:textColor="@android:color/white"
     	    android:text="@string/num">
     	</TextView>
+    	
+    	<EditText
+            android:id="@+id/p1"
+            android:layout_weight="1"
+    	    android:layout_height="match_parent"
+    	    android:layout_width="0dp"
+    	    android:gravity="center"
+    	    android:textColor="@android:color/white" >
+    	    
+    	    </EditText>
         
     </LinearLayout>
 	<LinearLayout 
